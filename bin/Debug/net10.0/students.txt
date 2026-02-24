@@ -1,0 +1,5 @@
+1,justin gwapo,BSIT,50
+2,pilip,BSCS,100
+3,Alice,BSIT,88
+4,Bob,BSCS,92
+5,Charlie,BSIS,75

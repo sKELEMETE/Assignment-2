@@ -1,0 +1,14 @@
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/bin/Debug/net10.0/Assignment2
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/bin/Debug/net10.0/Assignment2.deps.json
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/bin/Debug/net10.0/Assignment2.runtimeconfig.json
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/bin/Debug/net10.0/Assignment2.dll
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/bin/Debug/net10.0/Assignment2.pdb
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/obj/Debug/net10.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/obj/Debug/net10.0/Assignment2.AssemblyInfoInputs.cache
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/obj/Debug/net10.0/Assignment2.AssemblyInfo.cs
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/obj/Debug/net10.0/Assignment2.csproj.CoreCompileInputs.cache
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/obj/Debug/net10.0/Assignment2.dll
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/obj/Debug/net10.0/refint/Assignment2.dll
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/obj/Debug/net10.0/Assignment2.pdb
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/obj/Debug/net10.0/Assignment2.genruntimeconfig.cache
+/home/bubuka/Desktop/Trash/School/Appdev/Assignment2/obj/Debug/net10.0/ref/Assignment2.dll
